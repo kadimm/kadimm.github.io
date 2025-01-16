@@ -1,5 +1,5 @@
 # kadimm.github.io
-# -----------------
+# ---------------------
 
 ## Projects
 ### - React Music Previewer
