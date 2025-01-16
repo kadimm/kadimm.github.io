@@ -1,8 +1,11 @@
 # kadimm.github.io
+# -----------------
 
-
-# Projects
+## Projects
 ### - React Music Previewer
 
 # Education
 - Master's degree in Informatics Computer Engineering
+
+# Previous work experience
+- Plumber
