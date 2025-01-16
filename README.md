@@ -1,6 +1,4 @@
-# kadimm.github.io
-
-## Projects
+# Projects
 ### - React Music Previewer
 
 # Education
@@ -8,3 +6,4 @@
 
 # Previous work experience
 - Plumber
+
